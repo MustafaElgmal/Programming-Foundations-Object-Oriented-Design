@@ -1,0 +1,27 @@
+
+1-object-oriented thinking 
+
+ Analysis : Understand problem - what do you need to do?
+ Design   : plan sloution      - How are you going to do it?    
+ programming : Build it
+
+ 2-objects : are things that deal with each others in program 
+
+ 3- classes : are types of objects 
+
+ 4- APIE(
+     Abstraction
+     polomorephism
+     Inheritance
+     Encapsulation 
+ )
+
+ 5- to create class digram(
+     1- Gather requirements : what our application needs to do ?
+     2- Describe application: How I am going to do the application?
+     3- Identifiy main objects : what is attribute in classes?
+     4- Describe the interactions : what is behivoirs in classes?
+     5- create class digram : UML digram
+ )
+
+

@@ -1,0 +1,14 @@
+
+1-use cases(
+    Title  : simple and easy 
+    Actors : who is interact in app
+    Success senario :
+
+)
+
+ 2-user stories : is simple and easy from use cases(
+
+     As a (Type of user)
+     I want (goal)
+     so that (reason)
+ )

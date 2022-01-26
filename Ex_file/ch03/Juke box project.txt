@@ -1,0 +1,34 @@
+
+Use cases :
+1-
+Title : play a song 
+Actor : Astronauts
+senario: 
+System identify a user.User browse the library of available albums.
+User select albume and browses songs on selected albume.
+User select a song . System play the selected song.
+
+
+2-
+Title : select maltiple songs 
+Actor : users
+senario: 
+System identify user.User browses available albumes and songs.
+User select albume.User select a song .System starts to play the selected song.
+User continues browsing and selecting a secound song . System adds the secound song to play queue.
+System play secound song after first song is over.
+
+
+
+User story:
+1-
+As a user,I want my song to be added to the front of along play queue,so that I do not have to wait hours to hear it .
+
+
+2-
+As a user,I want listen to music free so that I do not have money .
+
+3-
+As a user , I want to be identified without touching anything ,so that my hands are free to do anything .
+
+

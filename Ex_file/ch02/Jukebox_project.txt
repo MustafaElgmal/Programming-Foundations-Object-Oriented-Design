@@ -1,0 +1,25 @@
+1-Funcational Requirements :
+
+The application must to.....
+
+- maintain a library of albums and songs
+- maintain a queue of songs
+- allow users to browse albums and songs
+- allow users to select individual songs
+- allow users to sort by artist
+- play music
+- prevent users to play full albums at time
+
+2-Non-Funcational Requirements :
+
+The application should be....
+
+- easy to use while floating in space
+- available to all astrounts  
+- Low power
+- Updatable and download free in all
+ platforms
+
+
+
+

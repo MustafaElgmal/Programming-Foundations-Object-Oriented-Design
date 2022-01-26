@@ -1,0 +1,6 @@
+
+ Conceptual models : Represents important objects and the relationships between them(
+     identifiy objects 
+     identifiy verbs
+     Draw CRC cards 
+ )

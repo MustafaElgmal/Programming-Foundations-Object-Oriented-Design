@@ -1,0 +1,16 @@
+
+ 1- Functional Requirments (
+     The system/application must do ........
+ )
+
+ 2- Non-Functional Requirments (
+     The system/application should be .....
+
+     Available ....
+
+     usable .....
+
+     compatible ....
+
+     
+ )
